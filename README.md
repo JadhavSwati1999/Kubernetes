@@ -1,5 +1,5 @@
 # Kubernetes
-Deep Dive into K8S
+Deep Dive into K8S.
 
 Introduction to kubernetes
 
