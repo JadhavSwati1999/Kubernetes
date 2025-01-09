@@ -1,7 +1,7 @@
 # Kubernetes
 Deep Dive into K8S.
 
-Introduction to kubernetes
+Introduction to kubernetes.
 
 Kubernetes architecture
 
