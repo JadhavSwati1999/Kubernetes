@@ -9,4 +9,4 @@ Why We need Control Plane in Kubernetes
 
 Kubernetes Production Systems
 
-Difference between EKS and Kubernetes
+Difference between EKS and Kubernetes.
