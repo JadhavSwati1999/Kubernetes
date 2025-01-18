@@ -7,6 +7,6 @@ Kubernetes architecture
 
 Why We need Control Plane in Kubernetes
 
-Kubernetes Production Systems
+Kubernetes Production Systems.
 
 Difference between EKS and Kubernetes.
