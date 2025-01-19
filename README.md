@@ -3,7 +3,7 @@ Deep Dive into K8S.
 
 Introduction to kubernetes.
 
-Kubernetes architecture
+Kubernetes architecture.
 
 Why We need Control Plane in Kubernetes
 
