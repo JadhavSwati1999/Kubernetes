@@ -5,7 +5,7 @@ Introduction to kubernetes.
 
 Kubernetes architecture.
 
-Why We need Control Plane in Kubernetes
+Why We need Control Plane in Kubernetes.
 
 Kubernetes Production Systems.
 
