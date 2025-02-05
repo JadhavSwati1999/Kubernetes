@@ -11,6 +11,6 @@ Kubernetes Production Systems.
 
 Difference between EKS and Kubernetes.
 
-What is kubectl
+What is kubectl ?
 
 Deploy a k8s cluster using Minikube.
