@@ -1,6 +1,6 @@
 When we run `kubectl get pods`, we are interacting with the Kubernetes cluster. But what happens behind the scenes? How does `kubectl` retrieve information about the Pods in the cluster? In this article, we'll walk through the internal process of how `kubectl` works and connects with Kubernetes resources like Pods.
 
-### How `kubectl` Connects to the Cluster
+### How `kubectl` Connects to the Cluster.
 
 ### Step 1: **User Executes the Command**
 
